@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-el",
+  "description": "The most comprehensive collection of stopwords for the greek language.",
+  "keywords": [
+    "greek",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-el",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-el.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
